@@ -1,0 +1,23 @@
+<svg width="400" height="100"
+viewBox="0 0 400 100"
+xmlns="http://www.w3.org/2000/svg">
+
+<polygon
+points="60,5 100,30 100,70 60,95 20,70 20,30"
+fill="orange"
+stroke="white"
+stroke-width="3"/>
+
+<text
+x="120"
+y="60"
+font-size="26"
+font-family="Arial"
+font-weight="bold"
+fill="white">
+
+Institute of Digital Risk
+
+</text>
+
+</svg>
